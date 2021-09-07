@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'SitePhotoService'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_08724238872742828e02ab26f48a76d8 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_976bba5ecd3a468d8afbc63f3a1f5e17 }}
         package: .
